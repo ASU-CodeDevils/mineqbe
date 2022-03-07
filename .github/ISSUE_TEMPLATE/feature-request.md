@@ -9,6 +9,7 @@ assignees: ""
 # Details
 
 **Stakeholders:**
+ - MineQbe contributors
 
 <!-- Note: Who does this effect? -->
 
@@ -16,10 +17,10 @@ assignees: ""
 
 <!-- Note: Prerequisite related to this issue. -->
 
-**Descripion:**
+**Description:**
 
 <!-- Note: A clear and concise description of what you want to happen. -->
 
-**Acceptance Criteria**
+**Acceptance Criteria:**
 
 <!-- Note: What needs to be done in order for this to be merged>
