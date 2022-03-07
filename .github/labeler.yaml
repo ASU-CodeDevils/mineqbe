@@ -1,0 +1,6 @@
+---
+area/frontend: {}
+area/ci:
+  - ".github/**/*"
+area/cluster: {}
+area/terraform: {}
