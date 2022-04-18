@@ -1,4 +1,4 @@
-module github.com/ASU-CodeDevils/MC-Service
+module github.com/ASU-CodeDevils/Mineqbe
 
 go 1.18
 
