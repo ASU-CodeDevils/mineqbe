@@ -1,4 +1,4 @@
-module github.com/ASU-CodeDevils/Mineqbe
+module github.com/ASU-CodeDevils/mineqbe
 
 go 1.18
 
